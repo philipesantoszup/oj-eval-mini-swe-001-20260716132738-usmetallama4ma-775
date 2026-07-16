@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 include_directories(${project_source_dir}/)
 
-add_executable(code solution.cpp)
+add_executable(code main.cpp)
